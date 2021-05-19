@@ -1,7 +1,7 @@
 # VAID-APP
 ## _Virtual and Artificially Intelligent Doctor_
 
-VAID is a simple symtom checker chatbot built in rivescript.
+VAID is a simple symptom checker chatbot built in rivescript.
 
 ## Features
 
