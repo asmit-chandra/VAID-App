@@ -1,0 +1,33 @@
+! version = 2.0
+
+// SIDD AI is currently able to check for followinng diseases-->
+// covid-19
+// hepatitis a
+// hepatitis c
+// parathyroid fever
+// typhoid
+// tubercolosis
+// malaria
+
++ *
+- Hi, I am VAID your healthcare companion{topic=general}
+
+> topic general
+
++ check *
+- Searching for diseases... <call>searchTerms <star></call>
+
+> object searchTerms javascript
+  var filtered = chatbot.dbFilter(chatbot.db, "symptoms", args); 
+  var terms = filtered.map(function(row) {
+      return `${row.diseases}: ${row.symptoms}<hr>`;
+    });
+  var reply = "Didn't find any matches.";
+  if (terms.length) reply = "Here is a list of possible diseases.<br>" + terms.join(" ");
+  chatbot.postReply(reply, 2000);
+< object
+
++ hello [*]
+- Hello human!
+
+< topic
