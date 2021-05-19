@@ -8,7 +8,7 @@ VAID is a simple symtom checker chatbot built in rivescript.
 - Can recognise upto 157 diseases and 491 symptoms
 - Easy to use
 - Simple and elegant UI
-- Continously updated
+- Regularly updated
 
 ## Tech
 
