@@ -28,4 +28,4 @@ check symptom 1, symptom 2, symptom 3.....
 ```
 ## License
 
-***MIT LICENSE***
+***GNU General Public License v3.0***
