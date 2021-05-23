@@ -29,3 +29,8 @@ check symptom 1, symptom 2, symptom 3.....
 ## License
 
 ***GNU General Public License v3.0***
+
+## References
+
+[iDew Chatbot Library](https://docs.idew.org/code-chatbot/)
+[Diseases Database](https://github.com/clinicalml/HealthKnowledgeGraph)
