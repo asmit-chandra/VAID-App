@@ -36,7 +36,7 @@ This project is open to contributors. Feel free to fork or open a pull request.
 
 ## Sponsor this project
 
-Help me continue this project
+Help me continue this project!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A24Q9JV)
 
@@ -50,6 +50,10 @@ Help me continue this project
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+
+### WARNING
+
+**VAID App is still far from perfect. It is meant to be used as a supplement to the healthcare system, not as a substitute for it.** 
 
 ## References
 
